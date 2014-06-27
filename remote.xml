@@ -1,0 +1,8 @@
+<root>
+	<server>
+		<listen>6666</listen>
+		<backlog>50</backlog>
+	</server>
+</root>
+
+
